@@ -22,6 +22,9 @@ El temario del curso será:
 
 * **¿Y si tengo dudas?**
     * Tienes un canal exclusivo para dudas del curso en el [DISCORD](https://discord.com/invite/SVBExkcGyV?fbclid=IwAR02ojS9ErZfGhl3DQjEZHoX92LX8WWj98JYLVAn7OgMXVrrtf86kfYtvhE) llamado **🖥-kotlin-multiplatform**.
+ 
+* **¿Cual es la web para crear los proyectos de Kotlin Multiplatform?**
+	* Puedes acceder desde [aquí.](https://kmp.jetbrains.com/) 
 
 ---
 
