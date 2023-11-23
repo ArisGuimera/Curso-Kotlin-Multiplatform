@@ -11,8 +11,8 @@ Cada capítulo del temario estará en vídeo en el canal de [AristiDevs](https:/
 
 El temario del curso será: 
 <br />
-- [¿Qué es Kotlin Multiplatform?](https://youtu.be/xjIl-K616cc)  -  [(Tutorial por escrito)](https://cursokotlin.com/configurando-y-ejecutando-nuestra-primera-app-en-kotlin-multiplatform/)
-- [Configuración del entorno y Hello World](https://youtu.be/xjIl-K616cc?si=5vMC1FMs0IVCRvHa&t=296)  -  [(Tutorial por escrito)](https://cursokotlin.com/configurando-y-ejecutando-nuestra-primera-app-en-kotlin-multiplatform/)
+- [¿Qué es Kotlin Multiplatform?](https://youtu.be/smAhUwEQ1d8?si=Twbw3VmAnj0vVVD-)  -  [(Tutorial por escrito)](https://cursokotlin.com/configurando-y-ejecutando-nuestra-primera-app-en-kotlin-multiplatform/)
+- [Configuración del entorno y Hello World](https://youtu.be/smAhUwEQ1d8?si=kF0_Mam1v68tZLqZ&t=296)  -  [(Tutorial por escrito)](https://cursokotlin.com/configurando-y-ejecutando-nuestra-primera-app-en-kotlin-multiplatform/)
 ---
 
 ## Preguntas habituales.
