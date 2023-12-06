@@ -21,6 +21,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import bottombar.BottomBarScreen
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.Navigator
@@ -53,6 +54,12 @@ class MainScreen : Screen {
                 navigator.push(SecondScreen())
             }) {
                 Text("Navegación básica")
+            }
+            Spacer(Modifier.height(18.dp))
+            Button(onClick = {
+                navigator.push(BottomBarScreen())
+            }) {
+                Text("BottomBar")
             }
         }
     }
