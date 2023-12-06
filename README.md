@@ -14,6 +14,7 @@ El temario del curso será:
 - [¿Qué es Kotlin Multiplatform?](https://youtu.be/smAhUwEQ1d8?si=Twbw3VmAnj0vVVD-)  -  [(Tutorial por escrito)](https://cursokotlin.com/configurando-y-ejecutando-nuestra-primera-app-en-kotlin-multiplatform/)
 - [Configuración del entorno y Hello World](https://youtu.be/smAhUwEQ1d8?si=kF0_Mam1v68tZLqZ&t=296)  -  [(Tutorial por escrito)](https://cursokotlin.com/configurando-y-ejecutando-nuestra-primera-app-en-kotlin-multiplatform/)
 - [Navegación en Kotlin Multiplatform](https://youtu.be/kaMl2l7wjS8?si=X4vfJquPwnEcR7lt)  -  [(Tutorial por escrito)](https://cursokotlin.com/navegacion-en-kotlin-multiplatform-con-voyager/)
+- [Navegación con Bottom Bar en Kotlin Multiplatform](https://youtu.be/VIPCCytIIzg)  -  [(Tutorial por escrito)](https://cursokotlin.com/navegacion-con-bottom-bar-en-kotlin-multiplatform)
 ---
 
 ## Preguntas habituales.
