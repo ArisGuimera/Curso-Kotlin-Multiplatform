@@ -31,6 +31,7 @@ import cafe.adriel.voyager.transitions.ScaleTransition
 import cafe.adriel.voyager.transitions.SlideTransition
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.painterResource
+import settings.ProfileScreen
 
 @Composable
 fun App() {
@@ -60,6 +61,12 @@ class MainScreen : Screen {
                 navigator.push(BottomBarScreen())
             }) {
                 Text("BottomBar")
+            }
+            Spacer(Modifier.height(18.dp))
+            Button(onClick = {
+                navigator.push(ProfileScreen())
+            }) {
+                Text("Navegación con persistencia")
             }
         }
     }
