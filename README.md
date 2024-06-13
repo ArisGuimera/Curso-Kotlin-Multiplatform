@@ -17,6 +17,7 @@ El temario del curso será:
 - [Navegación con Bottom Bar en Kotlin Multiplatform](https://youtu.be/VIPCCytIIzg)  -  [(Tutorial por escrito)](https://cursokotlin.com/navegacion-con-bottom-bar-en-kotlin-multiplatform)
 - [Persistencia de datos en KMP](https://youtu.be/bdkPh76DVMw) - [(Tutorial por escrito)](https://cursokotlin.com/persistencia-de-datos-en-kotlin-multiplatform/)
 - [Actual y Expect](https://youtu.be/5tnX0z6q44Q) - [(Tutorial por escrito)](https://cursokotlin.com/expected-actual-kmp/)
+- [Consumiendo APIs con Ktor](https://youtu.be/cf0lnsL2Myg) - [(Tutorial por escrito)](https://cursokotlin.com/kotlin-multiplatform-con-ktor-para-consumir-api)
 ---
 
 ## Preguntas habituales.
